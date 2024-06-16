@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoHorse</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Логин</string>
+    <string name="name">Имя</string>
+    <string name="surename">Фамилия</string>
+    <string name="patronymic">Отчество</string>
+    <string name="birthdate">Дата рождения</string>
+    <string name="password">Пароль</string>
+    <string name="create_account">Создать аккаунт</string>
+</resources>
