@@ -8,4 +8,11 @@
     <string name="birthdate">Дата рождения</string>
     <string name="password">Пароль</string>
     <string name="create_account">Создать аккаунт</string>
+    <string name="authorization">Авторизация</string>
+    <string name="auth">Войти</string>
+    <string name="create_new_account">Создать аккаунт</string>
+    <string name="authirizate">Авторизоваться</string>
+    <string name="email">Почта</string>
+    <string name="number">Номер телефона</string>
+    <string name="orderText">Забронировать занятие</string>
 </resources>
